@@ -1,0 +1,9 @@
+[submodule "~lazyPHP"]
+	path = ~lazyPHP
+	url = https://github.com/laolin/LinApi.git
+[submodule "static"]
+	path = static
+	url = https://github.com/laolin/a9-static.git
+[submodule "linjianping"]
+	path = linjianping
+	url = https://github.com/laolin/a9-linjianping.git
