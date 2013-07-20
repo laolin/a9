@@ -11,8 +11,8 @@ $a=isset($_GET['a'])?$_GET['a']:'';
 switch($c) {
   case 'api':
     if($a=='wp'){//prepare wordpress functions
-      if(file_exists($index_config['wp-include-file']))
-        include_once($index_config['wp-include-file']);
+      if(file_exists($index_config['api-wp-include-file']))
+        include_once($index_config['api-wp-include-file']);
     }
     break;
 }
