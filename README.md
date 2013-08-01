@@ -37,9 +37,10 @@ $index_config['api-wp-include-file']='./wordpress/wp-blog-header.php';
 
 
 ## Acknowledgement
-* Thanks to EasyChen's [lazyPHP](https://github.com/easychen/LazyPHP)
-* Thanks to Twitter's [Bootstrap](https://github.com/twitter/bootstrap)
+* Thanks to Twitter's [Bootstrap](https://github.com/twbs/bootstrap)
 * Thanks to [jQuery](http://jQuery.com/)
+* Thanks to EasyChen's [lazyPHP](https://github.com/easychen/LazyPHP)
+* Thanks to needim's [noty](https://github.com/needim/noty)
 
 
 ## Author
